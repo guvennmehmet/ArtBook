@@ -15,6 +15,7 @@
 		7019585B2A59AEBF007C862F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7019585A2A59AEBF007C862F /* Assets.xcassets */; };
 		7019585E2A59AEBF007C862F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7019585C2A59AEBF007C862F /* LaunchScreen.storyboard */; };
 		701958662A59B137007C862F /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701958652A59B137007C862F /* DetailsVC.swift */; };
+		7019586A2A59CA83007C862F /* select.png in Resources */ = {isa = PBXBuildFile; fileRef = 701958692A59CA83007C862F /* select.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		7019585D2A59AEBF007C862F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7019585F2A59AEBF007C862F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		701958652A59B137007C862F /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
+		701958692A59CA83007C862F /* select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = select.png; path = ../../../../Downloads/select.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				7019585C2A59AEBF007C862F /* LaunchScreen.storyboard */,
 				7019585F2A59AEBF007C862F /* Info.plist */,
 				701958572A59AEBD007C862F /* ArtBook.xcdatamodeld */,
+				701958692A59CA83007C862F /* select.png */,
 			);
 			path = ArtBook;
 			sourceTree = "<group>";
@@ -132,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7019585E2A59AEBF007C862F /* LaunchScreen.storyboard in Resources */,
+				7019586A2A59CA83007C862F /* select.png in Resources */,
 				7019585B2A59AEBF007C862F /* Assets.xcassets in Resources */,
 				701958562A59AEBD007C862F /* Main.storyboard in Resources */,
 			);
